@@ -1,0 +1,1 @@
+from .simplifier import simpleSentence
